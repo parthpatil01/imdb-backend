@@ -1,0 +1,53 @@
+
+[
+{
+    "title":"Alien romulus",
+    "image":"https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/06/alien-romulus-poster.jpg",
+    "rating":"7.4"
+},
+{
+    "title":"Deadpool & Wolverine",
+    "image":"https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
+    "rating":"8.0"
+},
+{
+    "title":"The Union",
+    "image":"https://th.bing.com/th/id/OIP.mkGGkBmJncF91JKbhXBtWwHaJQ?w=819&h=1023&rs=1&pid=ImgDetMain",
+    "rating":"5.4"
+},
+{
+    "title":"It Ends with Us",
+    "image":"https://img1.od-cdn.com/ImageType-100/5054-1/%7B3ADB16B9-E0CE-48E7-9C94-F55571274428%7DIMG100.JPG",
+    "rating":"6.8"
+},
+{
+    "title":"Furiosa",
+    "image":"https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/Furiosa-poster.jpeg",
+    "rating":"7.8"
+},
+{
+    "title":"Twisters",
+    "image":"https://th.bing.com/th/id/OIP.YdQKo8hnLGCEQgXr9cTBNwAAAA?rs=1&pid=ImgDetMain",
+    "rating":"7.6"
+},
+{
+    "title":"The Umbrella Academy",
+    "image":"https://th.bing.com/th/id/OIP.ugc7mjeeMz9p0PwQ_dW1ygHaNK?w=2160&h=3840&rs=1&pid=ImgDetMain",
+    "rating":"7.8"
+},
+{
+    "title":"House of the dragon",
+    "image":"https://media.gq.com.mx/photos/62b3316855c3e87dbdd42871/master/w_1600%2Cc_limit/house%2520of%2520dragon.jpg",
+    "rating":"8.4"
+},
+{
+    "title":"Game Of Thrones",
+    "image":"https://i.pinimg.com/736x/2a/a3/2b/2aa32b29e7805628b586249dce4cd851.jpg",
+    "rating":"9.2"
+},
+{
+    "title":"The Crow",
+    "image":"https://aftercredits.com/wp-content/uploads/2024/08/TheCrowPoster-692x1024.jpg",
+    "rating":"4.7"
+}
+]

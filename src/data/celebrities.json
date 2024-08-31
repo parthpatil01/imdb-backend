@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Ian Somerhalder",
+        "age": 48,
+        "image": "https://th.bing.com/th/id/OIP.-NjLF6q3akNvhxFiBCStAAHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Paul Wesley",
+        "age": 45,
+        "image": "https://i.pinimg.com/originals/47/d6/93/47d69369c9312c3b363295af7c682728.jpg"
+    },
+    {
+        "name": "Katrina Kaif",
+        "age": 41,
+        "image": "https://th.bing.com/th/id/OIP.vUpJYB1fQ6NkVts9GVTb6wHaJQ?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Shahrukh Khan",
+        "age": 54,
+        "image": "https://im.indiatimes.in/content/2019/Aug/shah_rukh_khan_money_heist_1564825905_725x725.jpg"
+    },
+    {
+        "name": "Bill Skarsgard",
+        "age": 34,
+        "image": "https://th.bing.com/th/id/OIP.mDBt5sS0BcBvfTerkfBGGgHaLH?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Ashley Johnson",
+       "age": 41,
+        "image": "https://th.bing.com/th/id/OIP.wz-oTQ6H2co2VRzYVWY_sAHaLI?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Anna Kendrick",
+       "age": 39,
+        "image": "https://image.tmdb.org/t/p/original/5ZYBQefB30uWObRzin8R0PYqenh.jpg"
+      },
+      {
+        "name": "Gillian Anderson",
+       "age": 56,
+        "image": "https://external-preview.redd.it/pEcPbrneeqaa8GqpbNmA1ZV3en-VEZot1KMGggGAsss.jpg?auto=webp&s=c02e94c66397132ad3c4e7396b16036fd6fe4dc8"
+      },
+      {
+        "name": "Rhona Mitra",
+        "age": 48,
+        "image": "https://www.hawtcelebs.com/wp-content/uploads/2015/01/rhona-mitra-at-instyle-and-warner-bros-golden-globes-party-in-beverly-hills_6.jpg"
+      },
+      {
+        "name": "Sam Elliott",
+        "age": 80,
+        "image": "https://th.bing.com/th/id/OIP.W1AxdlQynQAaon7U1jQNggHaLJ?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Erica Ash",
+        "age": 25,
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDc2MTI3Nl5BMl5BanBnXkFtZTcwMTcxNTI4Mw@@._V1_FMjpg_UX1000_.jpg"
+      }, {
+        "name": "Sasha Jackson",
+        "age": 46,
+        "image": "https://image.tmdb.org/t/p/original/e1dVUW0ch27YdavOKI9F8XZwt1W.jpg"
+      }, {
+        "name": "Dafne Keen",
+        "age": 27,
+        "image": "https://th.bing.com/th/id/OIP.V6Lrn2KSEBw2d1gLFIMSvAHaJQ?rs=1&pid=ImgDetMain"
+      }, {
+        "name": "ryan reynolds",
+        "age": 46,
+        "image": "https://th.bing.com/th/id/OIP.M47Rqdhx3fLQzmdAMkYtiAHaFj?rs=1&pid=ImgDetMain"
+      }, {
+        "name": "glen powell",
+        "age": 40,
+        "image": "https://th.bing.com/th/id/OIP.HICS1lBOk11y2ynk1h68_wHaLH?rs=1&pid=ImgDetMain"
+      }, {
+        "name": "Henry Cavill",
+        "age": 41,
+        "image": "https://th.bing.com/th/id/OIP.2DzLtjVx5dRTrzFy3Q25DQHaK8?rs=1&pid=ImgDetMain"
+      }
+    ]

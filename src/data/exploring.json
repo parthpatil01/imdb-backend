@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Jackpot",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/img_2557_6.jpeg",
+        "rating": "5.8"
+    },
+    {
+        "title": "Emily in Paris",
+        "image": "https://www.theupcoming.co.uk/wp-content/uploads/2024/07/Emily-in-Paris-poster-601x901.jpg",
+        "rating": "7.9"
+    },
+    {
+        "title": "Dexter",
+        "image": "https://th.bing.com/th/id/OIP.SNzi9F9jiBldaAfZr1DeaAAAAA?rs=1&pid=ImgDetMain",
+        "rating": "7.4"
+    },
+    {
+        "title": "The Walking Dead",
+        "image": "https://image.tmdb.org/t/p/original/uvmY7nIvsG2xWxUKk1fZ1nK9Cma.jpg",
+        "rating": "8.1"
+    },
+    {
+        "title": "Poor things",
+        "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202305/PoorThings_1684234726.jpg",
+        "rating": "9.2"
+    },
+    {
+        "title": "The office",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
+        "rating": "8.2"
+    },
+    {
+        "title": "The Umbrella Academy",
+        "image": "https://th.bing.com/th/id/OIP.ugc7mjeeMz9p0PwQ_dW1ygHaNK?w=2160&h=3840&rs=1&pid=ImgDetMain",
+        "rating": "7.8"
+    },
+    {
+        "title": "Furiosa",
+        "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/Furiosa-poster.jpeg",
+        "rating": "7.8"
+    },
+    {
+        "title": "The Crow",
+        "image": "https://aftercredits.com/wp-content/uploads/2024/08/TheCrowPoster-692x1024.jpg",
+        "rating": "4.7"
+    },
+    {
+        "title": "Twisters",
+        "image": "https://th.bing.com/th/id/OIP.YdQKo8hnLGCEQgXr9cTBNwAAAA?rs=1&pid=ImgDetMain",
+        "rating": "7.6"
+    },
+    {
+        "title": "House of the dragon",
+        "image": "https://media.gq.com.mx/photos/62b3316855c3e87dbdd42871/master/w_1600%2Cc_limit/house%2520of%2520dragon.jpg",
+        "rating": "8.4"
+    },
+    {
+        "title": "Game Of Thrones",
+        "image": "https://i.pinimg.com/736x/2a/a3/2b/2aa32b29e7805628b586249dce4cd851.jpg",
+        "rating": "9.2"
+    }
+]
